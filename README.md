@@ -1,3 +1,8 @@
+# Como ligar a aplicação server ?
+- Clonar o projeto
+- Instalar o node_module
+- Abrir o console e digitar "npm start ou yarn start".
+
 # Fucionalidades
 
 ## Conexões
